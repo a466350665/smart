@@ -22,7 +22,7 @@
 	
 	<properties>
 		<servlet.version>3.1.0</servlet.version>
-		<fastjson.version>1.2.69</fastjson.version>
+		<fastjson.version>1.2.83</fastjson.version>
 	</properties>
 
 	<dependencyManagement>
